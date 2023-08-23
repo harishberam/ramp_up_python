@@ -18,10 +18,12 @@
     Applying for loop on the given input string
     if count(i)>0 we can add the chacaters to the empty dictionary.
     After that print the output.
+    
 ## Find out total number of words present in the statement
      Initially taking the word_list as a temporary variable we can split the in  string as empty space.
      after that word_count is an another tempoary variable which is used to find the len of the word_list.
      Finally print the output of toatl number of the word present in the string.
+     
 ## Find out total number of duplicate words in the statement
    Initially Words will be take a temporary variable and split the entire string.
    Take empty dictionary 
@@ -31,6 +33,7 @@
    else:
       d[word]=word+1 it is the value of dictionary.
    Finally got the output   
+   
    ## Reverse the characters present in the statement
        IN this operation i am using slicing methos to reverse te entire characters in the given string.
 
